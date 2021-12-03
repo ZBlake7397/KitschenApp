@@ -1,0 +1,5 @@
+How To Run:
+
+Copy Zip of repo
+Load Project into Android Studio
+Compile and run
